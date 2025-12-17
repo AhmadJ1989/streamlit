@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: white;
+}
+
+.stApp {
+    background: transparent;
+}
+
+.card {
+    background-color: rgba(255,255,255,0.1);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.5);
+    margin-bottom: 20px;
+}
+
+.profile-image-frame {
+    width: 100%;
+    max-width: 350px;
+    margin: auto;
+    padding: 8px;
+    border-radius: 20px;
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+}
+
+.profile-image-frame img {
+    width: 100%;
+    border-radius: 15px;
+    display: block;
+}
+
