@@ -1,5 +1,1 @@
-streamlitstreamlit
-pillow
-pandas
-numpy
 
